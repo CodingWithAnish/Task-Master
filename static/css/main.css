@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: lightblue;
+}
+
+.content{
+   margin: 0 auto;
+   width: 600px;
+}
+
+table, td, th{
+    border: 1px solid #000;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    padding: 10px;
+}
+
+th{
+    height: 20px;
+}
+
+#content{
+    width: 70%;
+}
